@@ -1,4 +1,9 @@
 # React Foodbook
+## install node
 npm install
-npm start : start react native
-npm run android : start android emulator
+
+## start react
+npm start
+
+## start android emulator
+npm run android
